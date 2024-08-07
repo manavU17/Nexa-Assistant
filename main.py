@@ -6,7 +6,6 @@ from gtts import gTTS
 import pygame
 import os
 
-
 recognizer = sr.Recognizer()
 engine = pyttsx3.init() 
 newsapi = "28dcc927936e49568a2e76054a993fa4"
